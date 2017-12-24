@@ -1,0 +1,42 @@
+body {
+  background-color: black;
+  text-align: center;
+}
+
+.headline {
+  font-family: verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+
+.Download {
+text-align: center;
+color: aquamarine;
+font-size: 16px;
+font-family: verdana
+}
+
+.guide,
+.soon {
+  font-family: verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+  text-align: center;
+}
+
+#places {
+  font-family: verdana;
+  font-size: 21px;
+  color: gray;
+  text-align: center;
+}
+
+.copyright {
+  text-align: right;
+  color: gray;
+  font-size: 21px;
+  font-family: verdana;
+}
